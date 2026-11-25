@@ -1,4 +1,4 @@
-# Built-a-SIEM
+# Deployed-a-SIEM
 SIEM Implementation and Log Analysis
 ## Objective
 
